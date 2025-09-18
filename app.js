@@ -66,6 +66,8 @@ function reiniciarJogo() {
 }
 function jogoDonumero
 
+function limparCampo
+
 
 
 
